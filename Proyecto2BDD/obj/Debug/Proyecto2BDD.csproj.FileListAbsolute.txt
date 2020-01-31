@@ -1,0 +1,16 @@
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\bin\Debug\Proyecto2BDD.exe.config
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\bin\Debug\Proyecto2BDD.exe
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\bin\Debug\Proyecto2BDD.pdb
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.csprojAssemblyReference.cache
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.Form1.resources
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.Properties.Resources.resources
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.csproj.GenerateResource.cache
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.exe
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.pdb
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.DATOS_DEFUNCION.resources
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.DATOS_MADRE.resources
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.INFORMACION_GENERAL.resources
+c:\users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.INICIO.resources
+C:\Users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.FORMULARIO.resources
+C:\Users\usuario\source\repos\Proyecto2BDD\Proyecto2BDD\obj\Debug\Proyecto2BDD.CONSULTA.resources
